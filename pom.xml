@@ -18,8 +18,8 @@
         <serenity.maven.version>3.0.5</serenity.maven.version>
         <serenity.cucumber.version>2.4.51</serenity.cucumber.version>
         <parallel.tests>4</parallel.tests>
-        <webdriver.base.url></webdriver.base.url>
-        <tags></tags>
+        <webdriver.base.url/>
+        <tags/>
 
         <rest-assured.version>4.3.2</rest-assured.version>
         <rest-assured.json-path>4.3.3</rest-assured.json-path>
