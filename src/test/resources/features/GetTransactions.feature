@@ -1,4 +1,4 @@
-# POC Based on mock service simulating a Transaction Service
+# POC Based on mocking a Transaction Service
 
 # Get information from API
 Feature: POC - Get actions
